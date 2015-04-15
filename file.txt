@@ -13,4 +13,8 @@ lima
 mike
 november
 oscar
+<<<<<<< HEAD
+=======
+papa
+>>>>>>> 0913d7f333b11e08cfee2b35f9748dc68b9dcfa9
 quebec
