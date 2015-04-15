@@ -13,3 +13,6 @@ lima
 mike
 november
 oscar
+quebec
+papa
+
